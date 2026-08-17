@@ -1,150 +1,209 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ERAJ%20SHAIKH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=STUDENT%20%E2%80%A2%20DEVELOPER&descSize=18&descAlignY=58&animation=twinkling&color=0:0D0D0D,50:151515,100:000000" width="100%"/><br><a href="https://github.com/ErajShaikh">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=760&height=55&lines=I+build+things+I+probably+don't+need;AI+is+basically+my+second+keyboard;Give+me+an+idea+%E2%86%92+I'll+try+to+ship+it;Student+%2B+Developer+%2B+Builder;Trying+to+build+something+awesome." alt="Typing animation"/>
-</a><br><br>
+<div align="center"><img
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ERAJ%20SHAIKH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=STUDENT%20%2F%2F%20DEVELOPER&descSize=18&descAlignY=58&animation=twinkling&color=0:050505,50:111111,100:050505"
+width="100%"
+alt="Eraj Shaikh"
+/>
 
-<a href="https://github.com/ErajShaikh">
-<img src="https://img.shields.io/badge/GitHub-ErajShaikh-090909?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-eraj.exe-090909?style=for-the-badge&logo=discord&logoColor=white"/>
-</a></div>---
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&height=45&lines=Student+%E2%80%A2+Developer;Building+things+that+probably+shouldn't+exist;AI-assisted+development;Turning+ideas+into+working+products;Currently+building+something+awesome"
+alt="Typing animation"
+/>
 
-<div align="center"><table>
-<tr>
-<td align="center" width="180">👨‍💻
+  <br>  <a href="https://github.com/ErajShaikh">
+    <img
+      src="https://img.shields.io/badge/GITHUB-ErajShaikh-0A0A0A?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/STUDENT-0A0A0A?style=for-the-badge"
+    alt="Student"
+  />
+  <img
+    src="https://img.shields.io/badge/DEVELOPER-0A0A0A?style=for-the-badge"
+    alt="Developer"
+  />
+  <img
+    src="https://img.shields.io/badge/AI%20POWERED-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"
+    alt="AI powered"
+  /></div>---
 
-STUDENT
+<div align="center"><h2>ABOUT</h2></div><table align="center">
+  <tr>
+    <td width="50%" valign="top"><b>👋 ERAJ</b>
 
-</td>
-<td align="center" width="180">⚡
+<br>Student & Developer.
 
-DEVELOPER
+I like taking random ideas and turning them into working software.
 
-</td>
-<td align="center" width="180">🤖
+I don't always build things because they're useful.
 
-AI POWERED
+Sometimes the idea is simply:
 
-</td>
-<td align="center" width="180">🚀
+«"Wait... can I actually build this?"»
 
-BUILDER
-
-</td>
-</tr>
-</table></div>---
-
-<div align="center">"ABOUT.ME"
-
-<img src="https://readme-SVG.vercel.app/api?text=Eraj%20Shaikh" width="1"/></div><table align="center">
-<tr>
-<td width="50%" valign="top">🧠 CURRENTLY
-
-LEARNING
-└── Supabase
-
-INTERESTED IN
-├── AI
-├── Machine Learning
-├── Coding
-└── Development
-
-MISSION
-└── Build something awesome
+And then I do.
 
 </td>
-<td width="50%" valign="top">🧪 PERSONALITY.EXE
+<td width="50%" valign="top">
 
-IDEA
- ↓
-"wait... can I build this?"
- ↓
-AI
- ↓
-more AI
- ↓
-BUILD
- ↓
-"why does this actually work?"
- ↓
-SHIP
+<b>🎯 CURRENT FOCUS</b>
+
+<br><br>
+
+<code>LEARNING</code> → Supabase
+
+<br><br>
+
+<code>INTERESTED IN</code>
+
+<br>AI · Machine Learning · Coding · Development
+
+<br><br>
+
+<code>GOAL</code> → Build something genuinely awesome.
 
 </td>
-</tr>
+
+  </tr>
 </table>---
 
-<div align="center">⚙️ TECH
+<div align="center"><h2>STACK</h2><table align="center">
+  <tr>
+    <td align="center" width="33%"><b>LANGUAGES</b>
 
-<img src="https://skillicons.dev/icons?i=ts,python,java,dart,postgres,mysql,supabase,git,vscode,flutter&perline=5" /></div>---
+<br><br>
 
-<div align="center">🤖 MY DEV STACK
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+<img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart"/></td>
+<td align="center" width="33%">
 
-<table>
-<tr>
-<td align="center" width="220"><img src="https://img.shields.io/badge/BUILDING-111111?style=for-the-badge"/><br><br>
+<b>DATABASES</b>
 
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/></td><td align="center" width="220"><img src="https://img.shields.io/badge/DEBUGGING-111111?style=for-the-badge"/><br><br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Qwen%20Studio-000000?style=for-the-badge"/></td><td align="center" width="220"><img src="https://img.shields.io/badge/WORKFLOW-111111?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/></td>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge"/></td><td align="center" width="220"><img src="https://img.shields.io/badge/TERMINAL-111111?style=for-the-badge"/><br><br>
+<b>TOOLS</b>
 
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white"/></td>
-</tr>
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Termux-111111?style=flat-square&logo=termux&logoColor=FFFFFF" alt="Termux"/>
+<img src="https://img.shields.io/badge/OpenCode-111111?style=flat-square" alt="OpenCode"/></td>
+
+  </tr>
 </table></div>---
 
-🚀 PROJECTS
+<div align="center"><h2>AI WORKFLOW</h2><table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>🧠 BUILDING</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="ChatGPT"/>
+    </td>
+    <td align="center" width="33%">
+      <b>🐛 DEBUGGING</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Qwen%20Studio-0A0A0A?style=for-the-badge" alt="Qwen Studio"/>
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ WORKFLOW</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/OpenCode-0A0A0A?style=for-the-badge" alt="OpenCode"/>
+    </td>
+  </tr>
+</table></div>---
 
-<div align="center"><table>
-<tr>
-<td width="50%" valign="top">🛰️ Xylo
+<div align="center"><h2>PROJECTS</h2><table align="center">
+  <tr>
+    <td width="50%" valign="top">🛰️ Xylo
 
-One bot. Whole ecosystem.
+<b>One bot. Whole ecosystem.</b>
 
-A private Discord project built around one simple idea:
+A private Discord project built around a simple idea:
 
-Invite one serious bot instead of filling a server with ten different ones.
+One serious bot instead of a server full of different bots.
 
-"PRIVATE" "CLOSED SOURCE"
+<code>PRIVATE</code> <code>CLOSED SOURCE</code>
 
-</td><td width="50%" valign="top">⭐ Revv
+</td>
+<td width="50%" valign="top">
 
-Reviews — inside Discord.
+⭐ Revv
+
+<b>Reviews, inside Discord.</b>
 
 A Discord review system designed for businesses and communities that sell products or services.
 
-"PRODUCTS" "REVIEWS" "COMMUNITY"
+<code>PRODUCTS</code> <code>REVIEWS</code> <code>COMMUNITY</code>
 
 </td>
-</tr>
+
+  </tr>
 </table></div>---
 
-<div align="center">📊 GITHUB
+<div align="center"><h2>HOW I BUILD</h2><table align="center">
+  <tr>
+    <td align="center">
+      💡<br>
+      <b>IDEA</b>
+    </td>
+    <td>→</td>
+    <td align="center">
+      🤖<br>
+      <b>AI</b>
+    </td>
+    <td>→</td>
+    <td align="center">
+      ⚙️<br>
+      <b>BUILD</b>
+    </td>
+    <td>→</td>
+    <td align="center">
+      🐛<br>
+      <b>DEBUG</b>
+    </td>
+    <td>→</td>
+    <td align="center">
+      🚀<br>
+      <b>SHIP</b>
+    </td>
+  </tr>
+</table><br><sub>Then I get another idea and do it all over again.</sub>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ErajShaikh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff"/><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErajShaikh&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=8b8b8b"/><br><br>
+</div>---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErajShaikh&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=ERАJ%20SHAIKH%20%E2%80%94%20ACTIVITY" width="95%"/></div>---
+<div align="center"><h2>CURRENTLY COOKING</h2><img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Supabase;AI+%2B+Development;Machine+Learning;New+ideas;The+next+project"
+alt="Currently cooking"
+/>
 
-<div align="center">🧩 CURRENTLY COOKING
+<br><img src="https://img.shields.io/badge/STATUS-BUILDING-111111?style=for-the-badge" alt="Building"/>
+<img src="https://img.shields.io/badge/MODE-DARK-111111?style=for-the-badge" alt="Dark mode"/>
+<img src="https://img.shields.io/badge/IDEAS-INFINITE-111111?style=for-the-badge" alt="Infinite ideas"/></div>---
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=680&height=50&lines=Supabase;AI+%2B+Development;Machine+Learning;Random+ideas;The+next+thing+that+shouldn't+exist." /><br><br>
+<div align="center"><h2>FIND ME</h2><a href="https://github.com/ErajShaikh">
+  <img
+    src="https://img.shields.io/badge/GitHub-ErajShaikh-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
+</a><img
+src="https://img.shields.io/badge/Discord-eraj.exe-0A0A0A?style=for-the-badge&logo=discord&logoColor=FFFFFF"
+alt="Discord: eraj.exe"
+/>
 
-<img src="https://img.shields.io/badge/status-building-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/mode-dark-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/coffee-required-111111?style=for-the-badge"/></div>---
+</div><br><div align="center"><img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:050505,50:111111,100:050505"
+width="100%"
+alt=""
+/>
 
-<div align="center">"UNKNOWN DEVELOPER.exe"
-
-Initializing...
-
-"████████████████████████████████" "100%"
-
-Status: "professional enough to be dangerous"
-
-<br><img src="https://komarev.com/ghpvc/?username=ErajShaikh&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/><br><br>
-
-<a href="https://github.com/ErajShaikh">
-<img src="https://img.shields.io/badge/→%20EXPLORE%20MY%20CODE-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF&logo=github&logoColor=000000"/>
-</a><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:000000,50:151515,100:0D0D0D" width="100%"/></div>
+</div>
